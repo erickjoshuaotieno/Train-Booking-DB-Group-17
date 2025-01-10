@@ -100,8 +100,5 @@ The ERD below illustrates the relationships between the entities in the database
 3. Populate the database with sample data provided in the `populate.sql` file.
 4. Use SQL queries to interact with the database for testing and validation.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
----
 
